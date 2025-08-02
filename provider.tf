@@ -12,7 +12,7 @@ terraform {
     storage_account_name = "hcl9999999"
     container_name       = "hclcontainer"
     resource_group_name  = "hcl-rg"
-    key                  = "cp-tfstate"
+    key                  = "cptfstate.tfstate"
 
   }
 }
